@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#main {
+  height: 100%;
+  width: 100%;
+}
+
+#draw_area {
+  height: 100%;
+  width: 100%;
+}
