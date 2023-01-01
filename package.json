@@ -16,11 +16,11 @@
     "@types/dat.gui": "^0.7.2",
     "@types/snapsvg": "^0.5.0",
     "snapsvg": "^0.5.1",
-    "ts-loader": "^6.0.0",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.4.5",
-    "webpack": "^4.31.0",
-    "webpack-cli": "^3.3.2",
-    "imports-loader": "^0.8.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "imports-loader": "^4.0.1",
     "webpack-dev-server": "^3.4.1"
   },
   "dependencies": {
